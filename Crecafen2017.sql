@@ -1,3 +1,6 @@
+
+--modification du fichier
+
 delete from comprend;
 delete from consommation;
 delete from facture;
